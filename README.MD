@@ -9,7 +9,8 @@
 [1] https://github.com/hukaixuan19970627/yolov5_obb
 
 模型训练环境搭建，与模型训练，部署参考下面的帖子：  
-[2] https://github.com/hukaixuan19970627/yolov5_obb/issues/615 (Support yolov5_obb deployment in python/c++【从数据制作到终端部署保姆级教学】 · Issue #615 · hukaixuan19970627/yolov5_obb) 
+[2] https://github.com/hukaixuan19970627/yolov5_obb/issues/615 (Support yolov5_obb deployment in python/c++【从数据制作到终端部署保姆级教学】 · Issue #615 · hukaixuan19970627/yolov5_obb 
+ 
 [3] https://blog.csdn.net/qq_44783689/article/details/129843481 (yolov5_obb报错合集-CSDN博客)  
 
 
